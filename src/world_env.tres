@@ -1,0 +1,11 @@
+[gd_resource type="Environment" format=2]
+
+[resource]
+background_mode = 1
+ambient_light_color = Color( 0.407843, 0.407843, 0.407843, 1 )
+ambient_light_energy = 0.18
+glow_enabled = true
+glow_intensity = 1.0
+glow_blend_mode = 1
+glow_hdr_threshold = 0.5
+glow_bicubic_upscale = true
